@@ -8,6 +8,7 @@ import {
   IconArrowRight,
   IconDownload,
   IconX,
+  IconClipboard,
 } from "@tabler/icons-react";
 
 interface BoardItem {
